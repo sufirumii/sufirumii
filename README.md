@@ -19,8 +19,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sufirumii&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
-
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🏅%20International%20Awards-6-FFD700?style=for-the-badge&labelColor=0d1117" />
