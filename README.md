@@ -24,8 +24,6 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🏅%20International%20Awards-6-FFD700?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/📦%20Public%20Repos-80+-00d4ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🧠%20Models%20Fine--Tuned-15+-7928ca?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
