@@ -1,9 +1,8 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=Rumi%20Iqbal%20Sufi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Medical%20AI%20Researcher&descAlignY=58&descColor=00d4ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=220&section=header&text=Rumi%20Iqbal%20Sufi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Medical%20AI%20Researcher%20%7C%20Gold%20Medalist&descAlignY=58&descColor=00d4ff&animation=fadeIn" />
 
-<!-- BADGES ROW -->
 <p>
   <a href="https://www.linkedin.com/in/rumi-sufi-6323a5265/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,14 +18,19 @@
   </a>
 </p>
 
-<!-- VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=sufirumii&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏅%20International%20Awards-6-FFD700?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📦%20Public%20Repos-80+-00d4ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🧠%20Models%20Trained-15+-7928ca?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔬%20Training%20Tokens-1.52B-34D399?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
 ## 🧠 About Me
 
 ```python
@@ -46,30 +50,161 @@ class RumiSufi:
     ]
 
     currently_building = "LlamaTron RS1 MedThinker — 1B param clinical reasoning model"
+    core_belief        = "Small models can think like doctors, if trained to reason — not just recall."
     motto              = "Advancing AI to benefit humanity 🌍"
 ```
 
 ---
 
-<!-- AWARDS -->
-## 🏆 Awards & Recognition
+## 🏆 International Awards & Certifications
+
+> *Recognised across 4 international invention competitions — including a **Gold Medal at iCAN 2025**, one of the world's largest invention expos, held in Toronto, Canada. Demonstrated AI Healthcare Agent live to the **Deputy Minister of Malaysia**.*
 
 <div align="center">
 
-| 🥇 | Award | Event |
-|:---:|:---|:---|
-| 🏅 **Gold Medal** | Top Invention Award | iCAN 2025 — International |
-| 🌟 | Top 10 Best Invention | iCAN 2025 — International |
-| 🇭🇷 | Croatian Inventors Network Special Award | iCAN 2025 |
-| 🌐 | OFEED Special Award | iCAN 2025 |
-| 🥈 **Silver Medal** | Innovation Award | IBIEC 2025 — International |
-| 🎓 | University 2nd Prize — Healthcare AI Agent (94.2% accuracy) | APU Malaysia |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/user-attachments/files/26494468/1.pdf">
+        <img src="https://img.shields.io/badge/🥇%20GOLD%20MEDAL-iCAN%202025-FFD700?style=for-the-badge&labelColor=1a1a2e" />
+        <br/><sub><b>📄 View Certificate →</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/files/26494462/3.pdf">
+        <img src="https://img.shields.io/badge/🌟%20TOP%2010%20BEST%20INVENTION-iCAN%202025-FF6B35?style=for-the-badge&labelColor=1a1a2e" />
+        <br/><sub><b>📄 View Certificate →</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/files/26494463/2.pdf">
+        <img src="https://img.shields.io/badge/🌐%20OFEED%20SPECIAL%20AWARD-iCAN%202025-00d4ff?style=for-the-badge&labelColor=1a1a2e" />
+        <br/><sub><b>📄 View Certificate →</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/user-attachments/files/26494469/4.pdf">
+        <img src="https://img.shields.io/badge/🇭🇷%20CROATIAN%20INVENTORS%20AWARD-iCAN%202025-7928ca?style=for-the-badge&labelColor=1a1a2e" />
+        <br/><sub><b>📄 View Certificate →</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/files/26494483/5.pdf">
+        <img src="https://img.shields.io/badge/🥈%20SILVER%20MEDAL-IBIEC%202025-C0C0C0?style=for-the-badge&labelColor=1a1a2e" />
+        <br/><sub><b>📄 View Certificate →</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/files/26494491/6.pdf">
+        <img src="https://img.shields.io/badge/🇲🇾%20DEMO%20TO%20DEPUTY%20MINISTER-Malaysia-34D399?style=for-the-badge&labelColor=1a1a2e" />
+        <br/><sub><b>📸 View Photo →</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    INTERNATIONAL RECOGNITION TIMELINE                    ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  2025  ──●── iCAN · Toronto ──── 🥇 Gold Medal                          ║
+║            │                      🌟 Top 10 Best Invention               ║
+║            │                      🌐 OFEED Special Award                 ║
+║            │                      🇭🇷 Croatian Inventors Network Award    ║
+║            │                                                             ║
+║         ──●── IBIEC ───────────── 🥈 Silver Medal                       ║
+║            │                                                             ║
+║         ──●── APU Malaysia ─────── 🎓 University 2nd Prize (94.2% acc.) ║
+║                                    🇲🇾 Demoed to Deputy Minister         ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
 ---
 
-<!-- SKILLS -->
+## 🔬 Research Philosophy — Human Cognition in Small-Scale Models
+
+> *My core research question: **Can a 1B parameter model reason like a doctor?***
+
+I believe the field over-indexes on scale. While 70B+ models dominate benchmarks, they are inaccessible in the places that matter most — rural clinics, low-bandwidth hospitals, edge devices in Kashmir and beyond. My work is driven by one conviction:
+
+**Clinical reasoning is not about memorising facts. It's a structured cognitive pattern — and that pattern can be taught to a 1B model.**
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                     THE COGNITION HYPOTHESIS                        │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  Human Doctor:                                                      │
+│  Observe → Hypothesise → Eliminate → Conclude → Escalate           │
+│      ↓            ↓           ↓           ↓           ↓             │
+│  [Symptoms]  [Differentials] [Red Flags] [Dx]    [Referral]        │
+│                                                                     │
+│  LlamaTron RS1 MedThinker (1B):                                    │
+│  Case Input → CoT Trace → Structured 4-Part Output                 │
+│                                ↓                                    │
+│                          DIAGNOSIS                                  │
+│                          REASONING                                  │
+│                          TREATMENT                                  │
+│                          RED FLAGS                                  │
+│                                                                     │
+│  Junior-doctor-level output from a model 70× smaller than GPT-4   │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### Scale vs. Accessibility
+
+```
+Model Size vs. Real-World Medical Accessibility
+──────────────────────────────────────────────────────────────────────
+GPT-4 / Claude    ████████████████████████████████  70B+ params
+                  Cloud-only · expensive · not privacy-safe
+
+Llama 3.1 70B     ████████████████████  70B params
+                  Needs A100 cluster · impractical at point-of-care
+
+Llama 3.2 7B      ██████  7B params
+                  Reasonable, but still too heavy for edge deployment
+
+LlamaTron 1B  ★   █  1B params                          ← MY WORK
+                  ✅ Runs on laptop CPU
+                  ✅ Deployable offline in rural clinics
+                  ✅ Privacy-preserving — no cloud required
+                  ✅ 810K clinical CoT samples · 1.52B tokens
+
+Qwen 0.5B     ★   ▌  0.5B params                        ← MY WORK
+                  ✅ Smallest viable medical reasoning model
+                  ✅ Full ReasonMed 370K dataset
+──────────────────────────────────────────────────────────────────────
+  ★ = Models I personally fine-tuned and open-sourced on Hugging Face
+```
+
+### Chain-of-Thought: From Recall to Reasoning
+
+```
+Standard Medical LLM:               My CoT-First Approach:
+──────────────────────────────      ──────────────────────────────────────
+Input:  "What causes pneumonia?"    Input:  Full clinical case presentation
+Output: "Streptococcus pneumoniae"  Output: Full reasoning trace
+                                            + differential diagnosis
+                                            + dose-specific treatment
+                                            + red flags & escalation
+
+Result: Fact retrieval              Result: Cognitive pattern transfer
+        (encyclopaedia behaviour)           (junior doctor behaviour)
+
+Data:   Q&A pairs                   Data:   810K reasoning traces
+                                            977M reasoning tokens
+                                            1.52B total tokens
+```
+
+---
+
 ## ⚙️ Tech Stack & Skills
 
 <div align="center">
@@ -102,70 +237,39 @@ class RumiSufi:
 ![Qwen](https://img.shields.io/badge/Qwen%202.5-7928CA?style=for-the-badge&logoColor=white)
 ![MedGemma](https://img.shields.io/badge/Google%20MedGemma-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Unsloth](https://img.shields.io/badge/Unsloth-FF4B4B?style=for-the-badge&logoColor=white)
-![ResNet](https://img.shields.io/badge/ResNet50%20CNN-FF6F00?style=for-the-badge&logoColor=white)
+![ResNet50](https://img.shields.io/badge/ResNet50%20CNN-FF6F00?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-<!-- FLAGSHIP PROJECTS -->
-## 🚀 Flagship Projects
+## 📊 Work by the Numbers
 
-<div align="center">
-
-### 🧠 LlamaTron RS1 MedThinker
-**1B parameter medical reasoning model fine-tuned on 810K chain-of-thought samples**
-
-[![HuggingFace](https://img.shields.io/badge/🤗%20Model%20Card-FFD21E?style=for-the-badge)](https://huggingface.co/Rumiii/LlamaTron-RS1-MedThinker)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sufirumii/LlamaTron-RS1-MedThinker)
-
-> Reasons through clinical cases step-by-step like a junior doctor — generating structured **Diagnosis → Reasoning → Treatment → Red Flags** outputs. Trained on 1.52B tokens with LoRA SFT via Unsloth on an RTX A6000.
-
-</div>
-
----
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| 🧬 **[Molecular Inhibitor Screener CoV-2](https://github.com/sufirumii/Molecular-Inhibitor-Screener-CoV2)** | XGBoost pIC50 predictor for SARS-CoV-2 3CL Protease inhibitor screening | XGBoost · RDKit |
-| 🏥 **[MedCode Qwen](https://github.com/sufirumii/MedCode-Qwen)** | RAG agent over 819K+ ICD & ATC clinical records | Qwen 2.5-7B · FAISS |
-| 🩺 **[Village Health AI Assistant](https://github.com/sufirumii/Village-Health-AI-Assistant-powered-by-Qwen-)** | 0.5B Medical AI + PubMed RAG for low-resource healthcare | Qwen 0.5B · RAG |
-| 🧫 **[Clinical Protocol Safety Validator](https://github.com/sufirumii/Clinical-Protocol-Safety-Validator-Medical-Triple-LLMs-Approach)** | Multi-agent system auditing clinical trials with 3 specialist 7B LLMs | Meditron-7B · Multi-Agent |
-| 🔬 **[SAM2 Zero-Shot Tumor Segmentation](https://github.com/sufirumii/SAM2-Zero-Shot-Tumor-Segmentation)** | Zero-shot brain tumor segmentation in MRI using Meta SAM 2 | SAM2 · CV |
-| 🫁 **[Pathology SmolVLM2](https://github.com/sufirumii/Pathology-SmolVLM2-2.2B-Instruct)** | LoRA fine-tune of SmolVLM2-2.2B on PathVQA pathology dataset | SmolVLM2 · LoRA |
-| 💊 **[AI Drug Repurposing Agent](https://github.com/sufirumii/AI-Powered-Drug-Repurposing-Discovery-Agent-powered-by-Kimi-K2.5)** | Intelligent drug repurposing platform powered by Kimi K2.5 | Kimi K2.5 · Agents |
-| 🎵 **[Lyria Music Generator](https://github.com/sufirumii/-Lyria-Music-Generator)** | AI music generation with Google Cloud Vertex AI | Vertex AI · HTML |
-| 📊 **[Precision Cancer Treatment Planner](https://github.com/sufirumii/Precision-Cancer-Treatment-Planner-Powered-by-google-gemma-3-27b-it)** | Multi-agent LLM pipeline for genomic-driven treatment planning | Gemma 3-27B · Agents |
-| 🧠 **[Cardiovascular AI Agent](https://github.com/sufirumii/Cardiovascular-AI-Agent-Powered-by-GPT-4o-with-Agentic-RAG)** | Textbook-grounded agentic RAG for cardiovascular physiology | GPT-4o · FAISS |
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                        RESEARCH AT A GLANCE                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Models Fine-Tuned          ████████████████  15+                   ║
+║  Training Tokens Used       ██████████████    1.52 Billion          ║
+║  Largest Dataset            ████████████      810,374 samples       ║
+║  Clinical Domains Covered   █████████         10+                   ║
+║  GitHub Repositories        ████████████████  80+                   ║
+║  International Awards       █████████         6                     ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  DOMAIN BREAKDOWN                                                    ║
+║                                                                      ║
+║  LLM Fine-Tuning & Reasoning  ██████████░░░░░░  38%                 ║
+║  RAG & Agentic Systems        ███████░░░░░░░░░  25%                 ║
+║  Computer Vision / Imaging    ██████░░░░░░░░░░  22%                 ║
+║  Predictive ML                ████░░░░░░░░░░░░  15%                 ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sufirumii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufirumii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufirumii&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7928ca&currStreakLabel=00d4ff" />
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sufirumii&bg_color=0d1117&color=00d4ff&line=7928ca&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-<!-- PROFESSIONAL EXPERIENCE -->
 ## 💼 Experience
 
 **Software Developer Intern — Asrix Prime Berhad** *(Jul 2024 – Oct 2024)*
@@ -174,7 +278,6 @@ class RumiSufi:
 
 ---
 
-<!-- CONTACT -->
 ## 📬 Get In Touch
 
 <div align="center">
@@ -192,7 +295,6 @@ class RumiSufi:
 
 <div align="center">
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=120&section=footer" />
 
 *"The wound is the place where the Light enters you." — Rumi*
