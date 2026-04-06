@@ -1,22 +1,23 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=220&section=header&text=Rumi%20Iqbal%20Sufi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Medical%20AI%20Researcher%20%7C%20Gold%20Medalist&descAlignY=58&descColor=00d4ff&animation=fadeIn" />
 
-<p>
-  <a href="https://www.linkedin.com/in/rumi-sufi-6323a5265/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sufirumii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/Rumiii">
-    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" />
-  </a>
-  <a href="mailto:sufirumii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/rumi-sufi-6323a5265/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/sufirumii">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://huggingface.co/Rumiii">
+  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" />
+</a>
+<a href="mailto:sufirumii@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=sufirumii&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
 
@@ -24,7 +25,7 @@
 
 <img src="https://img.shields.io/badge/🏅%20International%20Awards-6-FFD700?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/📦%20Public%20Repos-80+-00d4ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🧠%20Models%20Trained-15+-7928ca?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🧠%20Models%20Fine--Tuned-15+-7928ca?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/🔬%20Training%20Tokens-1.52B-34D399?style=for-the-badge&labelColor=0d1117" />
 
 </div>
@@ -58,54 +59,71 @@ class RumiSufi:
 
 ## 🏆 International Awards & Certifications
 
-> *Recognised across 4 international invention competitions — including a **Gold Medal at iCAN 2025**, one of the world's largest invention expos, held in Toronto, Canada. Demonstrated AI Healthcare Agent live to the **Deputy Minister of Malaysia**.*
-
 <div align="center">
+
+> *Recognised across **4 international invention competitions** — including a **Gold Medal at iCAN 2025**, one of the world's largest invention expos, held in **Toronto, Canada**. Demonstrated AI Healthcare Agent live to the **Deputy Minister of Health, Malaysia**.*
+
+<br/>
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/user-attachments/files/26494468/1.pdf">
-        <img src="https://img.shields.io/badge/🥇%20GOLD%20MEDAL-iCAN%202025-FFD700?style=for-the-badge&labelColor=1a1a2e" />
-        <br/><sub><b>📄 View Certificate →</b></sub>
+    <td align="center" width="220">
+      <a href="https://github.com/user-attachments/files/26494680/3.pdf">
+        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
+        <img src="https://img.shields.io/badge/🥇%20%20GOLD%20MEDAL-iCAN%202025%20%7C%20Toronto-FFD700?style=for-the-badge&labelColor=1a1000&color=FFD700" /><br/>
+        <sub>International Invention &amp; Innovation Competition</sub><br/><br/>
+        <img src="https://img.shields.io/badge/📄%20View%20Certificate-Click%20Here-FFD700?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/user-attachments/files/26494462/3.pdf">
-        <img src="https://img.shields.io/badge/🌟%20TOP%2010%20BEST%20INVENTION-iCAN%202025-FF6B35?style=for-the-badge&labelColor=1a1a2e" />
-        <br/><sub><b>📄 View Certificate →</b></sub>
+    <td align="center" width="220">
+      <a href="https://github.com/user-attachments/files/26494692/2.pdf">
+        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
+        <img src="https://img.shields.io/badge/🌟%20TOP%2010%20BEST%20INVENTION-iCAN%202025%20%7C%20Toronto-FF6B35?style=for-the-badge&labelColor=1a0900&color=FF6B35" /><br/>
+        <sub>International Invention &amp; Innovation Competition</sub><br/><br/>
+        <img src="https://img.shields.io/badge/📄%20View%20Certificate-Click%20Here-FF6B35?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/user-attachments/files/26494463/2.pdf">
-        <img src="https://img.shields.io/badge/🌐%20OFEED%20SPECIAL%20AWARD-iCAN%202025-00d4ff?style=for-the-badge&labelColor=1a1a2e" />
-        <br/><sub><b>📄 View Certificate →</b></sub>
+    <td align="center" width="220">
+      <a href="https://github.com/user-attachments/files/26494710/1.pdf">
+        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
+        <img src="https://img.shields.io/badge/🌐%20OFEED%20SPECIAL%20AWARD-iCAN%202025%20%7C%20Toronto-00d4ff?style=for-the-badge&labelColor=001a1a&color=00d4ff" /><br/>
+        <sub>International Invention &amp; Innovation Competition</sub><br/><br/>
+        <img src="https://img.shields.io/badge/📄%20View%20Certificate-Click%20Here-00d4ff?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
   </tr>
+  <tr><td colspan="3"><br/></td></tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/user-attachments/files/26494469/4.pdf">
-        <img src="https://img.shields.io/badge/🇭🇷%20CROATIAN%20INVENTORS%20AWARD-iCAN%202025-7928ca?style=for-the-badge&labelColor=1a1a2e" />
-        <br/><sub><b>📄 View Certificate →</b></sub>
+    <td align="center" width="220">
+      <a href="https://github.com/user-attachments/files/26494723/4.pdf">
+        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
+        <img src="https://img.shields.io/badge/🇭🇷%20CROATIAN%20INVENTORS%20NETWORK-iCAN%202025%20%7C%20Special%20Award-7928ca?style=for-the-badge&labelColor=0d001a&color=7928ca" /><br/>
+        <sub>International Invention &amp; Innovation Competition</sub><br/><br/>
+        <img src="https://img.shields.io/badge/📄%20View%20Certificate-Click%20Here-7928ca?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/user-attachments/files/26494483/5.pdf">
-        <img src="https://img.shields.io/badge/🥈%20SILVER%20MEDAL-IBIEC%202025-C0C0C0?style=for-the-badge&labelColor=1a1a2e" />
-        <br/><sub><b>📄 View Certificate →</b></sub>
+    <td align="center" width="220">
+      <a href="https://github.com/user-attachments/files/26494726/5.pdf">
+        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
+        <img src="https://img.shields.io/badge/🥈%20SILVER%20MEDAL-IBIEC%202025%20%7C%20International-aaaaaa?style=for-the-badge&labelColor=111111&color=aaaaaa" /><br/>
+        <sub>International Business, Innovation &amp; Entrepreneurship Competition</sub><br/><br/>
+        <img src="https://img.shields.io/badge/📄%20View%20Certificate-Click%20Here-aaaaaa?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/user-attachments/files/26494491/6.pdf">
-        <img src="https://img.shields.io/badge/🇲🇾%20DEMO%20TO%20DEPUTY%20MINISTER-Malaysia-34D399?style=for-the-badge&labelColor=1a1a2e" />
-        <br/><sub><b>📸 View Photo →</b></sub>
+    <td align="center" width="220">
+      <a href="https://github.com/user-attachments/files/26494727/6.pdf">
+        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
+        <img src="https://img.shields.io/badge/🇲🇾%20DEMO%20TO%20DEPUTY%20MINISTER-Ministry%20of%20Health%20%7C%20Malaysia-34D399?style=for-the-badge&labelColor=001a0d&color=34D399" /><br/>
+        <sub>Final Year Project · Live Demonstration to Government</sub><br/><br/>
+        <img src="https://img.shields.io/badge/📸%20View%20Photo-Click%20Here-34D399?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
   </tr>
 </table>
 
 </div>
+
+<br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
@@ -120,7 +138,7 @@ class RumiSufi:
 ║         ──●── IBIEC ───────────── 🥈 Silver Medal                       ║
 ║            │                                                             ║
 ║         ──●── APU Malaysia ─────── 🎓 University 2nd Prize (94.2% acc.) ║
-║                                    🇲🇾 Demoed to Deputy Minister         ║
+║                                    🇲🇾 Demoed to Deputy Minister of Health║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -145,7 +163,7 @@ I believe the field over-indexes on scale. While 70B+ models dominate benchmarks
 │      ↓            ↓           ↓           ↓           ↓             │
 │  [Symptoms]  [Differentials] [Red Flags] [Dx]    [Referral]        │
 │                                                                     │
-│  LlamaTron RS1 MedThinker (1B):                                    │
+│  LlamaTron RS1 MedThinker (1B):                                     │
 │  Case Input → CoT Trace → Structured 4-Part Output                 │
 │                                ↓                                    │
 │                          DIAGNOSIS                                  │
@@ -240,41 +258,6 @@ Data:   Q&A pairs                   Data:   810K reasoning traces
 ![ResNet50](https://img.shields.io/badge/ResNet50%20CNN-FF6F00?style=for-the-badge&logoColor=white)
 
 </div>
-
----
-
-## 📊 Work by the Numbers
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                        RESEARCH AT A GLANCE                         ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  Models Fine-Tuned          ████████████████  15+                   ║
-║  Training Tokens Used       ██████████████    1.52 Billion          ║
-║  Largest Dataset            ████████████      810,374 samples       ║
-║  Clinical Domains Covered   █████████         10+                   ║
-║  GitHub Repositories        ████████████████  80+                   ║
-║  International Awards       █████████         6                     ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  DOMAIN BREAKDOWN                                                    ║
-║                                                                      ║
-║  LLM Fine-Tuning & Reasoning  ██████████░░░░░░  38%                 ║
-║  RAG & Agentic Systems        ███████░░░░░░░░░  25%                 ║
-║  Computer Vision / Imaging    ██████░░░░░░░░░░  22%                 ║
-║  Predictive ML                ████░░░░░░░░░░░░  15%                 ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 💼 Experience
-
-**Software Developer Intern — Asrix Prime Berhad** *(Jul 2024 – Oct 2024)*
-- 🔐 Built multimodal face-voice authentication system achieving **97% accuracy** using GMM
-- ⚡ Optimised Linux for AI deployment, cutting boot time by **35%**
 
 ---
 
