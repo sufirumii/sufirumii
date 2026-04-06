@@ -66,7 +66,7 @@ class RumiSufi:
       <a href="https://github.com/user-attachments/files/26494680/3.pdf">
         <img src="https://img.shields.io/badge/🥇%20%20GOLD%20MEDAL-iCAN%202025%20%7C%20Toronto-FFD700?style=for-the-badge&labelColor=1a1000" />
         <br/><br/>
-        <b>International Invention &amp;<br/>Innovation Competition</b>
+        <b>Gold Medal &amp;<br/Award</b>
         <br/><br/>
         <img src="https://img.shields.io/badge/📄%20View%20Certificate-→-FFD700?style=flat-square&labelColor=0d1117" />
       </a>
@@ -75,7 +75,7 @@ class RumiSufi:
       <a href="https://github.com/user-attachments/files/26494692/2.pdf">
         <img src="https://img.shields.io/badge/🌟%20TOP%2010%20INVENTION-iCAN%202025%20%7C%20Toronto-FF6B35?style=for-the-badge&labelColor=1a0900" />
         <br/><br/>
-        <b>International Invention &amp;<br/>Innovation Competition</b>
+        <b>Top 10 Best &amp;<br/>Invention Award</b>
         <br/><br/>
         <img src="https://img.shields.io/badge/📄%20View%20Certificate-→-FF6B35?style=flat-square&labelColor=0d1117" />
       </a>
@@ -84,7 +84,7 @@ class RumiSufi:
       <a href="https://github.com/user-attachments/files/26494710/1.pdf">
         <img src="https://img.shields.io/badge/🌐%20OFEED%20SPECIAL%20AWARD-iCAN%202025%20%7C%20Toronto-00d4ff?style=for-the-badge&labelColor=001a1a" />
         <br/><br/>
-        <b>International Invention &amp;<br/>Innovation Competition</b>
+        <b>OFEED Special &amp;<br/>Award</b>
         <br/><br/>
         <img src="https://img.shields.io/badge/📄%20View%20Certificate-→-00d4ff?style=flat-square&labelColor=0d1117" />
       </a>
@@ -96,7 +96,7 @@ class RumiSufi:
       <a href="https://github.com/user-attachments/files/26494723/4.pdf">
         <img src="https://img.shields.io/badge/🇭🇷%20CROATIAN%20INVENTORS-iCAN%202025%20%7C%20Special%20Award-7928ca?style=for-the-badge&labelColor=0d001a" />
         <br/><br/>
-        <b>International Invention &amp;<br/>Innovation Competition</b>
+        <b>Croatian Inventors Network &amp;<br/>Special Award</b>
         <br/><br/>
         <img src="https://img.shields.io/badge/📄%20View%20Certificate-→-7928ca?style=flat-square&labelColor=0d1117" />
       </a>
@@ -105,7 +105,7 @@ class RumiSufi:
       <a href="https://github.com/user-attachments/files/26494726/5.pdf">
         <img src="https://img.shields.io/badge/🥈%20SILVER%20MEDAL-IBIEC%202025%20%7C%20International-aaaaaa?style=for-the-badge&labelColor=111111" />
         <br/><br/>
-        <b>Business, Innovation &amp;<br/>Entrepreneurship Competition</b>
+        <b>Silver Medal &amp;<br/>Entrepreneurship Competition</b>
         <br/><br/>
         <img src="https://img.shields.io/badge/📄%20View%20Certificate-→-aaaaaa?style=flat-square&labelColor=0d1117" />
       </a>
