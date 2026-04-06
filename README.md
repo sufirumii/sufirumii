@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/🏅%20International%20Awards-6-FFD700?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/📦%20Public%20Repos-80+-00d4ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/🧠%20Models%20Fine--Tuned-15+-7928ca?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🔬%20Training%20Tokens-1.52B-34D399?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -67,55 +66,61 @@ class RumiSufi:
 
 <table>
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="240">
       <a href="https://github.com/user-attachments/files/26494680/3.pdf">
-        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
-        <img src="https://img.shields.io/badge/🥇%20%20GOLD%20MEDAL-iCAN%202025%20%7C%20Toronto-FFD700?style=for-the-badge&labelColor=1a1000&color=FFD700" /><br/>
-        <sub>International Invention &amp; Innovation Competition</sub><br/><br/>
-        <img src="https://img.shields.io/badge/📄%20View%20Certificate-Click%20Here-FFD700?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/🥇%20%20GOLD%20MEDAL-iCAN%202025%20%7C%20Toronto-FFD700?style=for-the-badge&labelColor=1a1000" />
+        <br/><br/>
+        <b>International Invention &amp;<br/>Innovation Competition</b>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/📄%20View%20Certificate-→-FFD700?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="240">
       <a href="https://github.com/user-attachments/files/26494692/2.pdf">
-        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
-        <img src="https://img.shields.io/badge/🌟%20TOP%2010%20BEST%20INVENTION-iCAN%202025%20%7C%20Toronto-FF6B35?style=for-the-badge&labelColor=1a0900&color=FF6B35" /><br/>
-        <sub>International Invention &amp; Innovation Competition</sub><br/><br/>
-        <img src="https://img.shields.io/badge/📄%20View%20Certificate-Click%20Here-FF6B35?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/🌟%20TOP%2010%20INVENTION-iCAN%202025%20%7C%20Toronto-FF6B35?style=for-the-badge&labelColor=1a0900" />
+        <br/><br/>
+        <b>International Invention &amp;<br/>Innovation Competition</b>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/📄%20View%20Certificate-→-FF6B35?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="240">
       <a href="https://github.com/user-attachments/files/26494710/1.pdf">
-        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
-        <img src="https://img.shields.io/badge/🌐%20OFEED%20SPECIAL%20AWARD-iCAN%202025%20%7C%20Toronto-00d4ff?style=for-the-badge&labelColor=001a1a&color=00d4ff" /><br/>
-        <sub>International Invention &amp; Innovation Competition</sub><br/><br/>
-        <img src="https://img.shields.io/badge/📄%20View%20Certificate-Click%20Here-00d4ff?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/🌐%20OFEED%20SPECIAL%20AWARD-iCAN%202025%20%7C%20Toronto-00d4ff?style=for-the-badge&labelColor=001a1a" />
+        <br/><br/>
+        <b>International Invention &amp;<br/>Innovation Competition</b>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/📄%20View%20Certificate-→-00d4ff?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
   </tr>
   <tr><td colspan="3"><br/></td></tr>
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="240">
       <a href="https://github.com/user-attachments/files/26494723/4.pdf">
-        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
-        <img src="https://img.shields.io/badge/🇭🇷%20CROATIAN%20INVENTORS%20NETWORK-iCAN%202025%20%7C%20Special%20Award-7928ca?style=for-the-badge&labelColor=0d001a&color=7928ca" /><br/>
-        <sub>International Invention &amp; Innovation Competition</sub><br/><br/>
-        <img src="https://img.shields.io/badge/📄%20View%20Certificate-Click%20Here-7928ca?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/🇭🇷%20CROATIAN%20INVENTORS-iCAN%202025%20%7C%20Special%20Award-7928ca?style=for-the-badge&labelColor=0d001a" />
+        <br/><br/>
+        <b>International Invention &amp;<br/>Innovation Competition</b>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/📄%20View%20Certificate-→-7928ca?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="240">
       <a href="https://github.com/user-attachments/files/26494726/5.pdf">
-        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
-        <img src="https://img.shields.io/badge/🥈%20SILVER%20MEDAL-IBIEC%202025%20%7C%20International-aaaaaa?style=for-the-badge&labelColor=111111&color=aaaaaa" /><br/>
-        <sub>International Business, Innovation &amp; Entrepreneurship Competition</sub><br/><br/>
-        <img src="https://img.shields.io/badge/📄%20View%20Certificate-Click%20Here-aaaaaa?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/🥈%20SILVER%20MEDAL-IBIEC%202025%20%7C%20International-aaaaaa?style=for-the-badge&labelColor=111111" />
+        <br/><br/>
+        <b>Business, Innovation &amp;<br/>Entrepreneurship Competition</b>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/📄%20View%20Certificate-→-aaaaaa?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="240">
       <a href="https://github.com/user-attachments/files/26494727/6.pdf">
-        <img src="https://img.shields.io/badge/─────────────────-000000?style=for-the-badge&labelColor=000000" /><br/>
-        <img src="https://img.shields.io/badge/🇲🇾%20DEMO%20TO%20DEPUTY%20MINISTER-Ministry%20of%20Health%20%7C%20Malaysia-34D399?style=for-the-badge&labelColor=001a0d&color=34D399" /><br/>
-        <sub>Final Year Project · Live Demonstration to Government</sub><br/><br/>
-        <img src="https://img.shields.io/badge/📸%20View%20Photo-Click%20Here-34D399?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/🇲🇾%20DEPUTY%20MINISTER%20DEMO-Ministry%20of%20Health%20%7C%20Malaysia-34D399?style=for-the-badge&labelColor=001a0d" />
+        <br/><br/>
+        <b>Final Year Project · Live Demo<br/>to Government of Malaysia</b>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/📸%20View%20Photo-→-34D399?style=flat-square&labelColor=0d1117" />
       </a>
     </td>
   </tr>
@@ -138,88 +143,33 @@ class RumiSufi:
 ║         ──●── IBIEC ───────────── 🥈 Silver Medal                       ║
 ║            │                                                             ║
 ║         ──●── APU Malaysia ─────── 🎓 University 2nd Prize (94.2% acc.) ║
-║                                    🇲🇾 Demoed to Deputy Minister of Health║
+║                                    🇲🇾 Demoed to Deputy Minister         ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🔬 Research Philosophy — Human Cognition in Small-Scale Models
+## 📊 Research at a Glance
 
-> *My core research question: **Can a 1B parameter model reason like a doctor?***
+<div align="center">
 
-I believe the field over-indexes on scale. While 70B+ models dominate benchmarks, they are inaccessible in the places that matter most — rural clinics, low-bandwidth hospitals, edge devices in Kashmir and beyond. My work is driven by one conviction:
+<!-- Domain Breakdown Pie Chart -->
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22LLM%20Fine-Tuning%20%26%20Reasoning%22%2C%22RAG%20%26%20Agentic%20Systems%22%2C%22Computer%20Vision%22%2C%22Predictive%20ML%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B38%2C25%2C22%2C15%5D%2C%22backgroundColor%22%3A%5B%22%2300d4ff%22%2C%22%237928ca%22%2C%22%23FF6B35%22%2C%22%2334D399%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22fontColor%22%3A%22%23ffffff%22%2C%22fontSize%22%3A14%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Research%20Domain%20Breakdown%22%2C%22fontColor%22%3A%22%23ffffff%22%2C%22fontSize%22%3A18%7D%7D%2C%22layout%22%3A%7B%22backgroundColor%22%3A%22%230d1117%22%7D%7D%7D&backgroundColor=%230d1117&width=500&height=340" />
 
-**Clinical reasoning is not about memorising facts. It's a structured cognitive pattern — and that pattern can be taught to a 1B model.**
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                     THE COGNITION HYPOTHESIS                        │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  Human Doctor:                                                      │
-│  Observe → Hypothesise → Eliminate → Conclude → Escalate           │
-│      ↓            ↓           ↓           ↓           ↓             │
-│  [Symptoms]  [Differentials] [Red Flags] [Dx]    [Referral]        │
-│                                                                     │
-│  LlamaTron RS1 MedThinker (1B):                                     │
-│  Case Input → CoT Trace → Structured 4-Part Output                 │
-│                                ↓                                    │
-│                          DIAGNOSIS                                  │
-│                          REASONING                                  │
-│                          TREATMENT                                  │
-│                          RED FLAGS                                  │
-│                                                                     │
-│  Junior-doctor-level output from a model 70× smaller than GPT-4   │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<!-- Models by dataset size bar chart -->
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22LlamaTron%20RS1%22%2C%22ReasonMed%22%2C%22Nemesis%201B%22%2C%22ChatDoctor%22%2C%22CardioQA%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Training%20Samples%20(K)%22%2C%22data%22%3A%5B810%2C370%2C204%2C112%2C13%5D%2C%22backgroundColor%22%3A%5B%22%23FFD700%22%2C%22%2300d4ff%22%2C%22%237928ca%22%2C%22%23FF6B35%22%2C%22%2334D399%22%5D%2C%22borderRadius%22%3A6%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22fontColor%22%3A%22%23ffffff%22%2C%22fontSize%22%3A13%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Fine-Tuned%20Models%20by%20Dataset%20Size%22%2C%22fontColor%22%3A%22%23ffffff%22%2C%22fontSize%22%3A18%7D%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23aaaaaa%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%23222222%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23aaaaaa%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%23222222%22%7D%2C%22scaleLabel%22%3A%7B%22display%22%3Atrue%2C%22labelString%22%3A%22Samples%20(thousands)%22%2C%22fontColor%22%3A%22%23aaaaaa%22%7D%7D%5D%7D%7D%7D&backgroundColor=%230d1117&width=500&height=340" />
 
-### Scale vs. Accessibility
+</div>
 
-```
-Model Size vs. Real-World Medical Accessibility
-──────────────────────────────────────────────────────────────────────
-GPT-4 / Claude    ████████████████████████████████  70B+ params
-                  Cloud-only · expensive · not privacy-safe
+<div align="center">
 
-Llama 3.1 70B     ████████████████████  70B params
-                  Needs A100 cluster · impractical at point-of-care
+<!-- Radar / skill chart -->
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22LLM%20Fine-Tuning%22%2C%22RAG%20Systems%22%2C%22Computer%20Vision%22%2C%22Drug%20Discovery%22%2C%22Predictive%20ML%22%2C%22Agentic%20AI%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Expertise%20Level%22%2C%22data%22%3A%5B98%2C90%2C85%2C78%2C88%2C87%5D%2C%22backgroundColor%22%3A%22rgba(0%2C212%2C255%2C0.15)%22%2C%22borderColor%22%3A%22%2300d4ff%22%2C%22pointBackgroundColor%22%3A%22%23FFD700%22%2C%22pointRadius%22%3A5%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22fontColor%22%3A%22%23ffffff%22%2C%22fontSize%22%3A13%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22AI%20Expertise%20Radar%22%2C%22fontColor%22%3A%22%23ffffff%22%2C%22fontSize%22%3A18%7D%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%23333333%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22%23333333%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23cccccc%22%2C%22fontSize%22%3A13%7D%7D%7D%7D&backgroundColor=%230d1117&width=480&height=380" />
 
-Llama 3.2 7B      ██████  7B params
-                  Reasonable, but still too heavy for edge deployment
-
-LlamaTron 1B  ★   █  1B params                          ← MY WORK
-                  ✅ Runs on laptop CPU
-                  ✅ Deployable offline in rural clinics
-                  ✅ Privacy-preserving — no cloud required
-                  ✅ 810K clinical CoT samples · 1.52B tokens
-
-Qwen 0.5B     ★   ▌  0.5B params                        ← MY WORK
-                  ✅ Smallest viable medical reasoning model
-                  ✅ Full ReasonMed 370K dataset
-──────────────────────────────────────────────────────────────────────
-  ★ = Models I personally fine-tuned and open-sourced on Hugging Face
-```
-
-### Chain-of-Thought: From Recall to Reasoning
-
-```
-Standard Medical LLM:               My CoT-First Approach:
-──────────────────────────────      ──────────────────────────────────────
-Input:  "What causes pneumonia?"    Input:  Full clinical case presentation
-Output: "Streptococcus pneumoniae"  Output: Full reasoning trace
-                                            + differential diagnosis
-                                            + dose-specific treatment
-                                            + red flags & escalation
-
-Result: Fact retrieval              Result: Cognitive pattern transfer
-        (encyclopaedia behaviour)           (junior doctor behaviour)
-
-Data:   Q&A pairs                   Data:   810K reasoning traces
-                                            977M reasoning tokens
-                                            1.52B total tokens
-```
+</div>
 
 ---
 
@@ -240,7 +190,7 @@ Data:   Q&A pairs                   Data:   810K reasoning traces
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=00d4ff)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF4B4B?style=for-the-badge&logo=opencv&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT%20%2F%20RoBERTa-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Quantization](https://img.shields.io/badge/Quantization%20(GGUF%2FBF16)-34D399?style=for-the-badge&logoColor=black)
+![Quantization](https://img.shields.io/badge/Quantization%20GGUF%2FBF16-34D399?style=for-the-badge&logoColor=black)
 
 ### 🛠️ Tools & Infra
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
