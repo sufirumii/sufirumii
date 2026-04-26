@@ -11,7 +11,6 @@
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=sufirumii&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 ![Awards](https://img.shields.io/badge/🏅%20International%20Awards-4-FFD700?style=for-the-badge&labelColor=0d1117)
 ![Gold Medal](https://img.shields.io/badge/🥇%20Gold%20Medal-iCAN%202025%20Toronto-FFD700?style=for-the-badge&labelColor=1a1000)
 
@@ -179,20 +178,31 @@ class RumiSufi:
 
 <div align="center">
 
-## 📊 GITHUB STATS
+## 🎯 EXPERTISE MAP
+
+```
+  Medical AI & Clinical Reasoning   ████████████████████  Expert
+  LLM Fine-Tuning & Alignment       ███████████████████░  Advanced
+  Retrieval-Augmented Generation    ███████████████████░  Advanced
+  Computer Vision (Diagnostics)     ██████████████████░░  Advanced
+  Drug Discovery with AI            ████████████████░░░░  Proficient
+  Model Quantization (GGUF/BF16)    ███████████████░░░░░  Proficient
+  Agentic AI Systems                ██████████████░░░░░░  Proficient
+```
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sufirumii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufirumii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
+## 🧩 CORE COMPETENCY BREAKDOWN
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sufirumii&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7928ca&fire=FFD700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=888888" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sufirumii&bg_color=0d1117&color=00d4ff&line=7928ca&point=FFD700&area=true&hide_border=true" />
+| Domain | Specialisation | Level |
+|:---|:---|:---:|
+| 🧠 **Foundation Models** | Fine-tuning · LoRA · QLoRA · Alignment | `Expert` |
+| 🏥 **Medical AI** | Clinical NLP · Diagnostic CV · Drug Discovery | `Expert` |
+| 📚 **Knowledge Systems** | RAG Pipelines · FAISS · Vector Search | `Advanced` |
+| 👁️ **Computer Vision** | CNNs · ResNet · Medical Imaging | `Advanced` |
+| ⚡ **Model Optimisation** | Quantization · GGUF · BF16 · Unsloth | `Advanced` |
+| 🤖 **Agentic Systems** | Multi-agent · Tool Use · Reasoning Chains | `Proficient` |
+| 🚀 **Deployment** | Flask · FastAPI · Gradio · Docker | `Proficient` |
 
 </div>
 
