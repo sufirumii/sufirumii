@@ -3,6 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00d4ff,100:7928ca&height=240&section=header&text=Rumi%20Iqbal%20Sufi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Medical%20AI%20Researcher%20%E2%80%A2%20Gold%20Medalist&descAlignY=58&descColor=00d4ff&animation=twinkling" />
 
 <br/>
+<img width="800" height="378" alt="Silver Medal" src="https://github.com/user-attachments/assets/54a0727f-0e94-450a-8c7c-f0c02ea5c0f2" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rumi-sufi-6323a5265/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufirumii)
@@ -10,6 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufirumii@gmail.com)
 
 <br/>
+<img width="839" height="422" alt="Uni Prize" src="https://github.com/user-attachments/assets/302ed9db-cda4-4afa-b88e-0df51e0c3c8a" />
 
 ![Awards](https://img.shields.io/badge/🏅%20International%20Awards-4-FFD700?style=for-the-badge&labelColor=0d1117)
 ![Gold Medal](https://img.shields.io/badge/🥇%20Gold%20Medal-iCAN%202025%20Toronto-FFD700?style=for-the-badge&labelColor=1a1000)
