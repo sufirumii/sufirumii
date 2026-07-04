@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00d4ff,100:7928ca&height=200&section=header&text=Rumi%20Iqbal%20Sufi&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Rumi+Iqbal+Sufi;AI+Engineer;LLMs+%7C+Fine-Tuning+%7C+RAG)
 
 </div>
 
 ---
 
-AI Engineer working on LLMs, continued pre-training, fine-tuning, and retrieval augmented generation in the biomedical domain. Currently at Excelra Knowledge Solutions, Hyderabad, building AI systems for drug discovery and life sciences.
-
-Published researcher — arXiv [2506.09513](https://arxiv.org/abs/2506.09513)
+AI Engineer focused on large language models, continued pre-training, supervised fine-tuning, and retrieval augmented generation.
 
 ---
 
@@ -22,73 +20,66 @@ Published researcher — arXiv [2506.09513](https://arxiv.org/abs/2506.09513)
 
 ### Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Fine-Tuning](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7928CA?style=flat-square&logoColor=white)
-![CPT](https://img.shields.io/badge/Continued%20Pre--Training-00d4ff?style=flat-square&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=flat-square&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF4B4B?style=flat-square&logo=opencv&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00d4ff?style=flat-square&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LoRA / QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7928CA?style=for-the-badge&logoColor=white)
+![Continued Pre-Training](https://img.shields.io/badge/Continued%20Pre--Training-00d4ff?style=for-the-badge&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF4B4B?style=for-the-badge&logo=opencv&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT%20%2F%20RoBERTa-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Quantization](https://img.shields.io/badge/Quantization-34D399?style=for-the-badge&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00d4ff?style=for-the-badge&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### Recognition
+### International Recognition
+
+**iCAN 2025 — Toronto, Canada**
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/user-attachments/files/26494680/3.pdf">
-        <img src="https://img.shields.io/badge/Gold%20Medal-iCAN%202025%20Toronto-FFD700?style=flat-square&labelColor=1a1000" />
-      </a>
+    <td align="center" width="50%">
+      <b>Gold Medal</b><br/><br/>
+      <img width="340" src="https://github.com/user-attachments/assets/39aeda1f-79ff-493a-80bd-f8b550d37b9c" />
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/user-attachments/files/26494692/2.pdf">
-        <img src="https://img.shields.io/badge/Top%2010%20Invention-iCAN%202025%20Toronto-FF6B35?style=flat-square&labelColor=1a0900" />
-      </a>
+    <td align="center" width="50%">
+      <b>Top 10 Best Invention Award</b><br/><br/>
+      <img width="340" src="https://github.com/user-attachments/assets/936f1fbf-eba3-4e89-8281-d11d3b017aae" />
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/user-attachments/files/26494710/1.pdf">
-        <img src="https://img.shields.io/badge/OFEED%20Special%20Award-iCAN%202025%20Toronto-00d4ff?style=flat-square&labelColor=001a1a" />
-      </a>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>OFEED Special Award</b><br/><br/>
+      <img width="340" src="https://github.com/user-attachments/assets/4a88e892-69b9-4c08-9ce6-5809e66fa852" />
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/user-attachments/files/26494723/4.pdf">
-        <img src="https://img.shields.io/badge/Croatian%20Inventors%20Award-iCAN%202025%20Toronto-7928ca?style=flat-square&labelColor=0d001a" />
-      </a>
+    <td align="center" width="50%">
+      <b>Croatian Inventors Network Special Award</b><br/><br/>
+      <img width="340" src="https://github.com/user-attachments/assets/bb85a8f9-3429-4879-8ecd-ca070fbf1675" />
     </td>
   </tr>
 </table>
 
 <br/>
 
+**Other Recognition**
+
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <b>Silver Medal — IBIEC 2025</b><br/><br/>
-      <img width="480" src="https://github.com/user-attachments/assets/54a0727f-0e94-450a-8c7c-f0c02ea5c0f2" />
+      <img width="420" src="https://github.com/user-attachments/assets/54a0727f-0e94-450a-8c7c-f0c02ea5c0f2" />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <b>University Second Prize — Final Year Project</b><br/><br/>
-      <img width="480" src="https://github.com/user-attachments/assets/302ed9db-cda4-4afa-b88e-0df51e0c3c8a" />
+      <img width="420" src="https://github.com/user-attachments/assets/302ed9db-cda4-4afa-b88e-0df51e0c3c8a" />
     </td>
   </tr>
 </table>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sufirumii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufirumii&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
