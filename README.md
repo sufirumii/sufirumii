@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Rumi+Iqbal+Sufi;AI+Engineer;LLMs+%7C+Fine-Tuning+%7C+RAG)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Rumi+Iqbal+Sufi;AI+Engineer)
 
 </div>
 
