@@ -39,22 +39,22 @@ AI Engineer focused on large language models, continued pre-training, supervised
 
 ### Work Experience
 
-<img align="left" width="64" height="64" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Excelra.jpg"/>
+<img align="left" width="60" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Excelra.jpg"/>
 
 **AI Engineer** · Excelra
-
-![Duration](https://img.shields.io/badge/May_2026_–_Present-0d1117?style=flat-square&labelColor=00D4FF&logoColor=000) ![Location](https://img.shields.io/badge/Hyderabad,_Telangana-0d1117?style=flat-square&logo=googlemaps&logoColor=white)
+<br/>
+`Full-time` &nbsp;·&nbsp; May 2026 – Present &nbsp;·&nbsp; Hyderabad, Telangana
 
 Built an AI-powered Drug Discovery Course for internal employee training, complete with interactive quizzes and gamification.
 
 <br clear="left"/>
 <br/>
 
-<img align="left" width="64" height="64" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg"/>
+<img align="left" width="60" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg"/>
 
 **Software Dev Intern** · Asrix Prime Berhad
-
-![Type](https://img.shields.io/badge/Internship-7928CA?style=flat-square) ![Duration](https://img.shields.io/badge/May_2024_–_Oct_2024-0d1117?style=flat-square&labelColor=00D4FF&logoColor=000) ![Location](https://img.shields.io/badge/Subang_Jaya,_Selangor-0d1117?style=flat-square&logo=googlemaps&logoColor=white)
+<br/>
+`Internship` &nbsp;·&nbsp; May 2024 – Oct 2024 &nbsp;·&nbsp; Subang Jaya, Selangor
 
 - Fine-tuned SLMs on clinical data
 - Developed authentication system
