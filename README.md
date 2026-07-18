@@ -45,9 +45,10 @@ AI Engineer focused on large language models, continued pre-training, supervised
 <br/>
 `Full-time` &nbsp;·&nbsp; May 2026 – Present &nbsp;·&nbsp; Hyderabad, Telangana
 
+<br clear="left"/>
+
 - Built an AI Powered Drug Discovery Course for internal employee training with quizzes and gamification
 
-<br clear="left"/>
 <br/>
 
 <img align="left" width="60" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg"/>
@@ -55,6 +56,8 @@ AI Engineer focused on large language models, continued pre-training, supervised
 **Software Dev Intern** · Asrix Prime Berhad
 <br/>
 `Internship` &nbsp;·&nbsp; May 2024 – Oct 2024 &nbsp;·&nbsp; Subang Jaya, Selangor
+
+<br clear="left"/>
 
 - Fine-tuned SLMs on clinical data
 - Developed authentication system
