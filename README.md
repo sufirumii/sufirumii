@@ -39,34 +39,45 @@ AI Engineer focused on large language models, continued pre-training, supervised
 
 ### Work Experience
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="15%">
-      <img width="70" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Excelra.jpg" />
+    <td align="center" width="12%">
+      <img width="64" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Excelra.jpg" style="border-radius:8px" />
     </td>
-    <td width="85%">
-      <b>AI Engineer</b> — Excelra<br/>
-      <sub>May 2026 — Present • Hyderabad, Telangana</sub><br/><br/>
-      Built an AI Powered Drug Discovery Course for internal employee training with quizzes and gamification.
+    <td width="88%">
+      <h4 align="left">AI Engineer <sub>@ Excelra</sub></h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/May_2026-Present-2563eb?style=flat-square&logoColor=white" alt="May 2026 - Present"/>
+        <img src="https://img.shields.io/badge/-Hyderabad%2C%20Telangana-475569?style=flat-square&logo=googlemaps&logoColor=white" alt="Hyderabad, Telangana"/>
+      </p>
+      <p align="left">
+        Built an AI Powered Drug Discovery Course for internal employee training with quizzes and gamification.
+      </p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="15%">
-      <img width="70" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg" />
+    <td align="center" width="12%">
+      <img width="64" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg" style="border-radius:8px" />
     </td>
-    <td width="85%">
-      <b>Software Dev Intern</b> — Asrix Prime Berhad <sub>(Internship)</sub><br/>
-      <sub>May 2024 — October 2024 • Empire Tower, Subang Jaya, Selangor</sub><br/><br/>
-      - Fine-tuned SLMs on clinical data<br/>
-      - Developed authentication system<br/>
-      - Built traditional RAG pipelines<br/>
-      - AI accuracy testing across domains<br/>
-      - Tuned Porteus OS for faster boot
+    <td width="88%">
+      <h4 align="left">Software Dev Intern <sub>@ Asrix Prime Berhad</sub></h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Internship-7c3aed?style=flat-square" alt="Internship"/>
+        <img src="https://img.shields.io/badge/May_2024-October_2024-2563eb?style=flat-square" alt="May 2024 - October 2024"/>
+        <img src="https://img.shields.io/badge/-Subang%20Jaya%2C%20Selangor-475569?style=flat-square&logo=googlemaps&logoColor=white" alt="Subang Jaya, Selangor"/>
+      </p>
+      <ul align="left">
+        <li>Fine-tuned SLMs on clinical data</li>
+        <li>Developed authentication system</li>
+        <li>Built traditional RAG pipelines</li>
+        <li>AI accuracy testing across domains</li>
+        <li>Tuned Porteus OS for faster boot</li>
+      </ul>
     </td>
   </tr>
 </table>
