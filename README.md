@@ -1,4 +1,4 @@
-<div align="center">
+This is my Portfolio on GitHub : <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Rumi+Iqbal+Sufi;AI+Engineer)
 
@@ -80,6 +80,44 @@ AI Engineer focused on large language models, continued pre-training, supervised
     </td>
   </tr>
 </table>
+
+---
+
+### Final Year Project Recognition
+
+#### The Project that started my Career
+
+**Aetherion VZ Alpha 400B (SentiVita)** — a full-stack, AI-driven clinical decision support interface fusing computer vision diagnostics, a retrieval-grounded medical assistant, and biometric patient identity verification.
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img width="100%" src="https://github.com/user-attachments/assets/ca8724e4-6c3c-424f-bb86-a585e0e1349a" />
+    </td>
+    <td align="center" width="25%">
+      <img width="100%" src="https://github.com/user-attachments/assets/ad67296b-e4de-4e81-962b-703ecfb0d4ca" />
+    </td>
+    <td align="center" width="25%">
+      <img width="100%" src="https://github.com/user-attachments/assets/70d5d785-7532-492b-b97e-47d4e8accbb1" />
+    </td>
+    <td align="center" width="25%">
+      <img width="100%" src="https://github.com/user-attachments/assets/dc6298cd-e0cb-409e-b954-28ffe0002f8f" />
+    </td>
+  </tr>
+</table>
+
+**System Architecture**
+
+- **LLM Reasoning Layer** — Llama 4 Maverick (400B MoE), 17B active parameters per token, 128 routed experts, early-fusion multimodality
+- **14 ResNet50 Classifiers** — fine-tuned diagnostic models for Diabetic Retinopathy, Brain Tumors, Alzheimer's, Breast Cancer, and more
+- **Naive RAG Pipeline** — PubMed, BioASQ, and ChatDoctor corpus, embedded via all-MiniLM-L6-v2 with cosine similarity retrieval
+- **Biometric Verification** — OpenCV Haar cascades & face_recognition for role-based live webcam identity verification
+
+**Government Recognition**
+
+Live demonstration to Malaysia's Deputy Minister of Health, coinciding with APU being named an official consultant to the Ministry of Health's Health Performance Unit.
+
+[**View Repository →**](https://github.com/sufirumii/Final-Year-Project-Aetherion-VZ-Alpha-400B-)
 
 ---
 
