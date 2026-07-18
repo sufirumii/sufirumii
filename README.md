@@ -37,6 +37,42 @@ AI Engineer focused on large language models, continued pre-training, supervised
 
 ---
 
+### Work Experience
+
+<table>
+  <tr>
+    <td align="center" width="15%">
+      <img width="70" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Excelra.jpg" />
+    </td>
+    <td width="85%">
+      <b>AI Engineer</b> — Excelra<br/>
+      <sub>May 2026 — Present • Hyderabad, Telangana</sub><br/><br/>
+      Built an AI Powered Drug Discovery Course for internal employee training with quizzes and gamification.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="15%">
+      <img width="70" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg" />
+    </td>
+    <td width="85%">
+      <b>Software Dev Intern</b> — Asrix Prime Berhad <sub>(Internship)</sub><br/>
+      <sub>May 2024 — October 2024 • Empire Tower, Subang Jaya, Selangor</sub><br/><br/>
+      - Fine-tuned SLMs on clinical data<br/>
+      - Developed authentication system<br/>
+      - Built traditional RAG pipelines<br/>
+      - AI accuracy testing across domains<br/>
+      - Tuned Porteus OS for faster boot
+    </td>
+  </tr>
+</table>
+
+---
+
 ### International Recognition
 
 **iCAN 2025 — Toronto, Canada**
