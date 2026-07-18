@@ -1,4 +1,4 @@
-This is my Portfolio on GitHub : <div align="center">
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Rumi+Iqbal+Sufi;AI+Engineer)
 
@@ -39,35 +39,52 @@ AI Engineer focused on large language models, continued pre-training, supervised
 
 ### Work Experience
 
-<table>
+<div align="center">
+
+<!-- Excelra Card -->
+<table width="100%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 24px; margin-bottom: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
   <tr>
-    <td align="center" width="140">
-      <img width="70" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Excelra.jpg" />
+    <td width="100px" style="padding: 20px; vertical-align: top; border: none;">
+      <img width="80" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Excelra.jpg" style="border-radius: 12px; border: 1px solid #e2e8f0; padding: 8px; background: #fff;" />
     </td>
-    <td>
-      <b>AI Engineer</b> — Excelra<br/>
-      <sub>May 2026 – Present &nbsp;|&nbsp; Hyderabad, Telangana</sub>
-      <br/><br/>
-      Built an AI Powered Drug Discovery Course for internal employee training with quizzes and gamification.
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td align="center" width="140">
-      <img width="70" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg" />
-    </td>
-    <td>
-      <b>Software Dev Intern</b> — Asrix Prime Berhad &nbsp;<sub>(Internship)</sub><br/>
-      <sub>May 2024 – October 2024 &nbsp;|&nbsp; Subang Jaya, Selangor</sub>
-      <br/><br/>
-      • Fine-tuned SLMs on clinical data<br/>
-      • Developed authentication system<br/>
-      • Built traditional RAG pipelines<br/>
-      • AI accuracy testing across domains<br/>
-      • Tuned Porteus OS for faster boot
+    <td style="padding: 20px; text-align: left; border: none;">
+      <h3 style="margin: 0 0 4px 0; font-size: 18px; font-weight: 600; color: #0f172a;">AI Engineer <span style="font-weight: 400; color: #64748b; font-size: 16px;">@ Excelra</span></h3>
+      <p style="margin: 0 0 12px 0; color: #64748b; font-size: 14px;">
+        <img src="https://img.shields.io/badge/May_2026-Present-2563eb?style=flat-square&labelColor=2563eb&color=f1f5f9" alt="May 2026 - Present"/>
+        <img src="https://img.shields.io/badge/-Hyderabad%2C%20Telangana-475569?style=flat-square&logo=googlemaps&logoColor=white" alt="Hyderabad, Telangana"/>
+      </p>
+      <p style="margin: 0; color: #334155; font-size: 14px; line-height: 1.5;">
+        Built an AI Powered Drug Discovery Course for internal employee training with quizzes and gamification.
+      </p>
     </td>
   </tr>
 </table>
+
+<!-- Asrix Prime Berhad Card -->
+<table width="100%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  <tr>
+    <td width="100px" style="padding: 20px; vertical-align: top; border: none;">
+      <img width="80" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg" style="border-radius: 12px; border: 1px solid #e2e8f0; padding: 8px; background: #fff;" />
+    </td>
+    <td style="padding: 20px; text-align: left; border: none;">
+      <h3 style="margin: 0 0 4px 0; font-size: 18px; font-weight: 600; color: #0f172a;">Software Dev Intern <span style="font-weight: 400; color: #64748b; font-size: 16px;">@ Asrix Prime Berhad</span></h3>
+      <p style="margin: 0 0 12px 0; color: #64748b; font-size: 14px;">
+        <img src="https://img.shields.io/badge/Internship-7c3aed?style=flat-square" alt="Internship"/>
+        <img src="https://img.shields.io/badge/May_2024-October_2024-2563eb?style=flat-square&labelColor=2563eb&color=f1f5f9" alt="May 2024 - October 2024"/>
+        <img src="https://img.shields.io/badge/-Subang%20Jaya%2C%20Selangor-475569?style=flat-square&logo=googlemaps&logoColor=white" alt="Subang Jaya, Selangor"/>
+      </p>
+      <ul style="margin: 0; padding-left: 20px; color: #334155; font-size: 14px; line-height: 1.6;">
+        <li>Fine-tuned SLMs on clinical data</li>
+        <li>Developed authentication system</li>
+        <li>Built traditional RAG pipelines</li>
+        <li>AI accuracy testing across domains</li>
+        <li>Tuned Porteus OS for faster boot</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
