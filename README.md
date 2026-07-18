@@ -45,8 +45,7 @@ AI Engineer focused on large language models, continued pre-training, supervised
 <br/>
 `Full-time` &nbsp;·&nbsp; May 2026 – Present &nbsp;·&nbsp; Hyderabad, Telangana
 
-- Built an AI-powered Drug Discovery Course for internal employee training
-- Designed interactive quizzes and gamification to support onboarding
+- Built an AI Powered Drug Discovery Course for internal employee training with quizzes and gamification
 
 <br clear="left"/>
 <br/>
