@@ -39,39 +39,30 @@ AI Engineer focused on large language models, continued pre-training, supervised
 
 ### Work Experience
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="130">
-      <img width="72" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Excelra.jpg" />
-    </td>
-    <td valign="top">
-<b>AI Engineer</b> · Excelra
+<img align="left" width="64" height="64" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Excelra.jpg"/>
 
-![Duration](https://img.shields.io/badge/May_2026_–_Present-00D4FF?style=flat-square&labelColor=0d1117)
-![Location](https://img.shields.io/badge/Hyderabad,_Telangana-0d1117?style=flat-square&logo=googlemaps&logoColor=white)
+**AI Engineer** · Excelra
+
+![Duration](https://img.shields.io/badge/May_2026_–_Present-0d1117?style=flat-square&labelColor=00D4FF&logoColor=000) ![Location](https://img.shields.io/badge/Hyderabad,_Telangana-0d1117?style=flat-square&logo=googlemaps&logoColor=white)
 
 Built an AI-powered Drug Discovery Course for internal employee training, complete with interactive quizzes and gamification.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="130">
-      <img width="72" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg" />
-    </td>
-    <td valign="top">
-<b>Software Dev Intern</b> · Asrix Prime Berhad
 
-![Type](https://img.shields.io/badge/Internship-7928CA?style=flat-square)
-![Duration](https://img.shields.io/badge/May_2024_–_Oct_2024-00D4FF?style=flat-square&labelColor=0d1117)
-![Location](https://img.shields.io/badge/Subang_Jaya,_Selangor-0d1117?style=flat-square&logo=googlemaps&logoColor=white)
+<br clear="left"/>
+<br/>
 
-• Fine-tuned SLMs on clinical data<br/>
-• Developed authentication system<br/>
-• Built traditional RAG pipelines<br/>
-• AI accuracy testing across domains<br/>
-• Tuned Porteus OS for faster boot
-    </td>
-  </tr>
-</table>
+<img align="left" width="64" height="64" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg"/>
+
+**Software Dev Intern** · Asrix Prime Berhad
+
+![Type](https://img.shields.io/badge/Internship-7928CA?style=flat-square) ![Duration](https://img.shields.io/badge/May_2024_–_Oct_2024-0d1117?style=flat-square&labelColor=00D4FF&logoColor=000) ![Location](https://img.shields.io/badge/Subang_Jaya,_Selangor-0d1117?style=flat-square&logo=googlemaps&logoColor=white)
+
+- Fine-tuned SLMs on clinical data
+- Developed authentication system
+- Built traditional RAG pipelines
+- AI accuracy testing across domains
+- Tuned Porteus OS for faster boot
+
+<br clear="left"/>
 
 ---
 
@@ -121,11 +112,15 @@ Built an AI-powered Drug Discovery Course for internal employee training, comple
 
 ---
 
-### Final Year Project Recognition
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:00d4ff,100:7928ca&height=4"/>
 
-#### The Project that started my Career
+## Final Year Project Recognition
 
-**Aetherion VZ Alpha 400B (SentiVita)** — a full-stack, AI-driven clinical decision support interface fusing computer vision diagnostics, a retrieval-grounded medical assistant, and biometric patient identity verification.
+![Featured](https://img.shields.io/badge/Featured_Project-0d1117?style=for-the-badge&labelColor=7928CA)
+
+### The Project that Started My Career
+
+> **Aetherion VZ Alpha 400B (SentiVita)** — a full-stack, AI-driven clinical decision support interface fusing computer vision diagnostics, a retrieval-grounded medical assistant, and biometric patient identity verification.
 
 <table>
   <tr>
