@@ -47,7 +47,7 @@ AI Engineer focused on large language models, continued pre-training, supervised
     </td>
     <td valign="middle">
       &nbsp;<b>AI Engineer</b> &nbsp;·&nbsp; <a href="#">Excelra</a><br/>
-      &nbsp;<img src="https://img.shields.io/badge/May_2026_–_Present-00D4FF?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/Hyderabad,_Telangana-0d1117?style=flat-square&logo=googlemaps&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/May_2026_–_Present-00D4FF?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/Hyderabad,_Telangana-0d1117?style=flat-square&logo=googlemaps&logoColor=white" /><br/><br/>
       &nbsp;Built an AI-powered Drug Discovery Course for internal employee<br/>
       &nbsp;training, complete with interactive quizzes and gamification.
     </td>
