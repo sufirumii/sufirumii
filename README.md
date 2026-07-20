@@ -59,11 +59,9 @@ AI Engineer focused on large language models, continued pre-training, supervised
 
 <br clear="left"/>
 
-- Fine-tuned SLMs on clinical data
-- Developed authentication system
-- Built traditional RAG pipelines
-- AI accuracy testing across domains
-- Tuned Porteus OS for faster boot
+- Built a Multi-Modal Face-Voice Authentication system with Gaussian Mixture Model (90% accuracy)
+- Optimized PorteusOS for deployment by cutting boot time by 15 seconds and UI modification
+- Fine-Tuned SLMs on Clinical Data with RAG integration to increase Clinical Accuracy in testing
 
 <br clear="left"/>
 
