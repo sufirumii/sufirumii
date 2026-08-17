@@ -51,7 +51,7 @@ Forward Deployed Engineer focused on large language models, continued pre-traini
 
 <img align="left" width="60" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg"/>
 
-**Software Dev Intern** · Asrix Prime Berhad
+**AI Engineer** · Asrix Prime Berhad
 <br/>
 `Internship` &nbsp;·&nbsp; May 2024 – Oct 2024 &nbsp;·&nbsp; Subang Jaya, Selangor
 
