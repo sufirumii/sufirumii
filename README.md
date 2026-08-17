@@ -1,5 +1,4 @@
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Rumi+Iqbal+Sufi;Forward Deployed + Engineer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Rumi+Iqbal+Sufi;Forward%20Deployed%20%2B%20Engineer)
 
 </div>
 
