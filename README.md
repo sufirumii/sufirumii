@@ -1,4 +1,3 @@
-This is my Portfolio on GitHub : <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Rumi+Iqbal+Sufi;AI+Engineer)
 
@@ -6,7 +5,7 @@ This is my Portfolio on GitHub : <div align="center">
 
 ---
 
-AI Engineer focused on large language models, continued pre-training, supervised fine-tuning, and retrieval augmented generation.
+Forward Deployed Engineer focused on large language models, continued pre-training, supervised fine-tuning, and retrieval augmented generation.
 
 ---
 
@@ -41,7 +40,7 @@ AI Engineer focused on large language models, continued pre-training, supervised
 
 <img align="left" width="60" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Excelra.jpg"/>
 
-**AI Engineer** · Excelra
+**Forward Deployed Engineer** · Excelra
 <br/>
 `Full-time` &nbsp;·&nbsp; May 2026 – Present &nbsp;·&nbsp; Hyderabad, Telangana
 
