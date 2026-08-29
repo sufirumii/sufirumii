@@ -49,6 +49,21 @@ Forward Deployed Engineer focused on large language models, continued pre-traini
 
 <br/>
 
+<img align="left" width="60" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/APU%20Logo.webp"/>
+
+**Applied AI Engineer** · Asia Pacific University (APU)
+<br/>
+`Final Year Project` &nbsp;·&nbsp; Dec 2024 – Aug 2025 &nbsp;·&nbsp; Kuala Lumpur, Malaysia
+
+<br clear="left"/>
+
+- Led development of MediGuardAI Rover, an autonomous mobile healthcare security system with patrol, emergency intervention, and LLM-assisted medical support capabilities
+- Architected the reasoning layer on LLaMA 4 Maverick, backed by a 14.5B-token RAG database and 14 fine-tuned ResNet-50 diagnostic classifiers for medical imaging
+- Built additional platform features including 10 interactive visualizations, a cognitive rehabilitation game, ASMR therapy, and an emergency support module
+- Development was supported by a sponsored NVIDIA RTX 4090 GPU; the project went on to win 6 international awards (see Recognition below)
+
+<br/>
+
 <img align="left" width="60" src="https://raw.githubusercontent.com/sufirumii/Portfolio/main/Asrix%20Prime%20Berhad.jpeg"/>
 
 **AI Engineer** · Asrix Prime Berhad
@@ -57,9 +72,9 @@ Forward Deployed Engineer focused on large language models, continued pre-traini
 
 <br clear="left"/>
 
-- Built a Multi-Modal Face-Voice Authentication system with Gaussian Mixture Model (90% accuracy)
-- Optimized PorteusOS for deployment by cutting boot time by 15 seconds and UI modification
-- Fine-Tuned SLMs on Clinical Data with RAG integration to increase Clinical Accuracy in testing
+- Built a Multi-Modal Face and Voice Authentication system with Gaussian Mixture Model and Deep Learning (CNN), achieving 75% accuracy
+- Optimised PorteusOS for deployment by cutting boot time by 15 seconds and UI modification
+- Supervised fine-tuning of Small Language Models on medical datasets and integrated Retrieval-Augmented Generation to reduce hallucinations
 
 <br clear="left"/>
 
