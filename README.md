@@ -45,7 +45,7 @@ Forward Deployed Engineer focused on large language models, continued pre-traini
 
 <br clear="left"/>
 
-- Built an AI Powered Drug Discovery Course for internal employee training with quizzes and gamification
+- Lead a team for integrating and deploying 7 AI Powered Courses on Life Sciences for employee training
 
 <br/>
 
